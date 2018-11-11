@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">NicCage</string>
+    <string name="ActorName">Nicolas Cage</string>
+    <string name="Profession">The best actor ever</string>
+    <string name="connection">How to connect:</string>
+    <string name = "about_NicCage">
+    Nicolas Kim Coppola (born January 7, 1964),known professionally as
+        Nicolas Cage, is an American actor, director and producer.
+    </string>
+    <string name = "work">
+         2018
+            Mandy – A bosszú kultusza
+
+            színész (amerikai-belga akcióthriller, horror, 121 perc, 2018)
+            2017
+            Két testvér, egy lövés
+
+            színész (amerikai akciófilm, 97 perc, 2017)
+            2017
+            Bosszú szeretetből
+
+            színész, producer (amerikai thriller, 99 perc, 2017)
+            2017
+            Mom and Dad
+
+            színész (amerikai horror, 2017)
+            2016
+            Züllöttség
+
+            színész (amerikai thriller, 2016)
+            2016
+            Snowden
+
+            színész (amerikai-német-francia életrajzi dráma, 134 perc, 2016)
+            2016
+            Bizalom
+
+            színész (amerikai krimi, 92 perc, 2016)
+            2016
+            A bátrak háborúja
+
+            színész (amerikai háborús filmdráma, 115 perc, 2016)
+            2016
+            Army of One
+
+            színész (amerikai vígjáték, 2016)
+
+    </string>
+    <string name="skills">
+        In February 2011, Cage said that, at a certain point in his career,
+        he realized that he had developed his own method of acting, which he described as
+        "Nouveau Shamanic." He noted, "at some point I'll have to write a book" about it.
+    </string>
+    <string name="contact">
+        Unkonwn
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
