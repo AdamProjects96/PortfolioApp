@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\52014011806d1c2e9972dd0656bb75e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\15203360975ac0c9350f5a5392d6379a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5cd01929ac1db32818084e62449f84e8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d8ea6fa9f77c3019edd7af21eb2fa689\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f160f724ae92aee1f268dd9f65f488ff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c1e9abe2e21433a791bae70d4137df87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81fb95e3fad1dab61e0a4af33c58a5e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff54ecf994b2a5f4064157b246b0cbc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\205ac900fec480ec105c83e5bf281f2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\776a4a656f9a6fd9c67c63a5bb4232fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\005c0081fd4410296c4160dad7d08e22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b865d353c9747c9fda241f38deb5124e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d865ab8a1fb16fb1532aec73a5bdba29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\46acefdf361c6b3f1de342184b35e4dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0cb4766cc3c7ff860b7fcca0d578300c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82747ee87fb942312923d8747646718a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5efef5c11f44fcad995c0d3900a1d459\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fc8f636ad5069ced5cec0571e2f84a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3cc2fc2ee531cd0787ca4b55be74b1ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4c10bc714cda1898c71b64a4c658d63a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2376c6c637d9f8033ea6f80bc6f76249\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1b61964443846ca22bbf0186804404af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58e650f8a79ffb472e50a78167092b2c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d735fbb1aaf4d346c605be19cd63624c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e0f86924b30e5d58d8e7629e784c0577\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4026d49d306a84f4faf81464a1105e8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\022ab69e232895e5f3d00e72abd2834c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\adeafdc7610aa87449aa1a98ee276180\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfb89d188ce7bc95fb42d95c7879f73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\247ef67f7bb46419d070f58a78e20200\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0c7e4840cb3968fb937dd9dda0d9a093\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7a48a3564858fdd9ad955c196d8ce515\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3fd09856f5b314261d90f0fbd08e805\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\52014011806d1c2e9972dd0656bb75e3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\52014011806d1c2e9972dd0656bb75e3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5cd01929ac1db32818084e62449f84e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5cd01929ac1db32818084e62449f84e8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f160f724ae92aee1f268dd9f65f488ff\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f160f724ae92aee1f268dd9f65f488ff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58e650f8a79ffb472e50a78167092b2c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58e650f8a79ffb472e50a78167092b2c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.myportfolio.MainActivity
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\52014011806d1c2e9972dd0656bb75e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\52014011806d1c2e9972dd0656bb75e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\15203360975ac0c9350f5a5392d6379a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\15203360975ac0c9350f5a5392d6379a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5cd01929ac1db32818084e62449f84e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5cd01929ac1db32818084e62449f84e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d8ea6fa9f77c3019edd7af21eb2fa689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d8ea6fa9f77c3019edd7af21eb2fa689\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f160f724ae92aee1f268dd9f65f488ff\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f160f724ae92aee1f268dd9f65f488ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c1e9abe2e21433a791bae70d4137df87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c1e9abe2e21433a791bae70d4137df87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81fb95e3fad1dab61e0a4af33c58a5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81fb95e3fad1dab61e0a4af33c58a5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff54ecf994b2a5f4064157b246b0cbc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff54ecf994b2a5f4064157b246b0cbc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\205ac900fec480ec105c83e5bf281f2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\205ac900fec480ec105c83e5bf281f2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\776a4a656f9a6fd9c67c63a5bb4232fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\776a4a656f9a6fd9c67c63a5bb4232fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\005c0081fd4410296c4160dad7d08e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\005c0081fd4410296c4160dad7d08e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b865d353c9747c9fda241f38deb5124e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b865d353c9747c9fda241f38deb5124e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d865ab8a1fb16fb1532aec73a5bdba29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d865ab8a1fb16fb1532aec73a5bdba29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\46acefdf361c6b3f1de342184b35e4dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\46acefdf361c6b3f1de342184b35e4dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0cb4766cc3c7ff860b7fcca0d578300c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0cb4766cc3c7ff860b7fcca0d578300c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82747ee87fb942312923d8747646718a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82747ee87fb942312923d8747646718a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5efef5c11f44fcad995c0d3900a1d459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5efef5c11f44fcad995c0d3900a1d459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fc8f636ad5069ced5cec0571e2f84a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fc8f636ad5069ced5cec0571e2f84a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3cc2fc2ee531cd0787ca4b55be74b1ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3cc2fc2ee531cd0787ca4b55be74b1ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4c10bc714cda1898c71b64a4c658d63a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4c10bc714cda1898c71b64a4c658d63a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2376c6c637d9f8033ea6f80bc6f76249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2376c6c637d9f8033ea6f80bc6f76249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1b61964443846ca22bbf0186804404af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1b61964443846ca22bbf0186804404af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b1c75971bf5e6c9f8598c7a2c0ed597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58e650f8a79ffb472e50a78167092b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58e650f8a79ffb472e50a78167092b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d735fbb1aaf4d346c605be19cd63624c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d735fbb1aaf4d346c605be19cd63624c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e0f86924b30e5d58d8e7629e784c0577\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e0f86924b30e5d58d8e7629e784c0577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4026d49d306a84f4faf81464a1105e8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4026d49d306a84f4faf81464a1105e8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\022ab69e232895e5f3d00e72abd2834c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\022ab69e232895e5f3d00e72abd2834c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\adeafdc7610aa87449aa1a98ee276180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\adeafdc7610aa87449aa1a98ee276180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfb89d188ce7bc95fb42d95c7879f73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfb89d188ce7bc95fb42d95c7879f73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\247ef67f7bb46419d070f58a78e20200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\247ef67f7bb46419d070f58a78e20200\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0c7e4840cb3968fb937dd9dda0d9a093\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0c7e4840cb3968fb937dd9dda0d9a093\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7a48a3564858fdd9ad955c196d8ce515\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7a48a3564858fdd9ad955c196d8ce515\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3fd09856f5b314261d90f0fbd08e805\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SzékelyLégió\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3fd09856f5b314261d90f0fbd08e805\AndroidManifest.xml:20:5-44
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		ADDED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DroidApps\MyPortfolio\app\src\main\AndroidManifest.xml
